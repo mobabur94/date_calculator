@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Date Calc</string>
+    <string name="title_add">Add</string>
+    <string name="title_compare">Compare</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="ok">OK</string>
+    <string name="days">Days</string>
+    <string name="months">Months</string>
+    <string name="years">Years</string>
+    <string name="amount_label">Days:</string>
+    <string name="action_business_mode">Business Mode</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+</resources>

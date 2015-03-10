@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp32">32dp</dimen>
+    <dimen name="dp64">64dp</dimen>
+    <dimen name="sp12">12sp</dimen>
+    <dimen name="sp24">24sp</dimen>
+    <dimen name="sp48">48sp</dimen>
+</resources>

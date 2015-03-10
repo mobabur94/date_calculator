@@ -1,0 +1,25 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_business_mode"
+        android:title="@string/action_business_mode"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:checkable="true" />
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/action_help"
+        android:orderInCategory="200"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:orderInCategory="200"
+        android:showAsAction="never" />
+
+</menu>
