@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Date Calc</string>
+    <string name="app_name">Date Calculator</string>
     <string name="title_add">Add</string>
     <string name="title_compare">Compare</string>
     <string name="cancel">Cancel</string>

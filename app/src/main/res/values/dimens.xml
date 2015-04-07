@@ -1,4 +1,5 @@
 <resources>
+    <dimen name="dp4">16dp</dimen>
     <dimen name="dp16">16dp</dimen>
     <dimen name="dp32">32dp</dimen>
     <dimen name="dp64">64dp</dimen>
